@@ -1,0 +1,8 @@
+{
+  "name": "ionic-box-shadow-nav-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6ad25ff9"
+}
